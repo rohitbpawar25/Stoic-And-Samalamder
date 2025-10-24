@@ -98,8 +98,7 @@ Add a text box in Power BI (150–200 words) highlighting insights and recommend
 
 ## Submission
 - Save the Power BI file as `SalesDashboard.pbix`.  
-- Export the dashboard as `SalesDashboard.pdf`.  
-- Submit both files along with this `readme.md` file.
+- Export the dashboard as `SalesDashboard.pdf`.
 
 ---
 
